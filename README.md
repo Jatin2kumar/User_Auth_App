@@ -1,4 +1,4 @@
-## This is User Auth APP. It has a homepage <img width="932" alt="Home" src="https://github.com/Jatin2kumar/User_Auth_App/assets/35414000/68ca59aa-f0a7-44ff-8370-67133a813827">
+## This is User Auth APP. It has a homepage <img width="532" alt="Home" src="https://github.com/Jatin2kumar/User_Auth_App/assets/35414000/68ca59aa-f0a7-44ff-8370-67133a813827">
 
 This App has a Sign In option
 
